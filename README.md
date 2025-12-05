@@ -588,7 +588,7 @@
 
             // Exibe mensagem de sucesso
             statusMensagem.className = 'mensagem-alerta alerta-sucesso';
-            statusMensagem.textContent = 'Mensagem enviada com sucesso! Em breve, Marcos entrará em contato.';
+            statusMensagem.textContent = 'Mensagem enviada com sucesso! Em breve, Marcos Alberto Viana Roque entrará em contato.';
             statusMensagem.style.display = 'block';
             
             // Limpa o formulário após o envio simulado
