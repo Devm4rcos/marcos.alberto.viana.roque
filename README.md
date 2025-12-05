@@ -355,7 +355,7 @@
     <header class="cabecalho">
         <div class="container">
             <div class="logo">
-                <a href="#sobre">M. A. V. Roque</a>
+                <a href="#sobre">Marcos Alberto Viana Roque</a>
             </div>
             <nav class="nav-menu">
                 <ul>
